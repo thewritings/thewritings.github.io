@@ -3,6 +3,18 @@
     padding: 0;
     background-color: rgb(44, 14, 112);
 }
+.head{
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(182, 88, 25);
+}
+.head a{
+    color: blue;
+    display: inline-block;
+    margin: 2px;
+    padding: 10px;
+    position: relative;
+}
 h1{
     color: whitesmoke;
 }
